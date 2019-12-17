@@ -29,8 +29,5 @@
     <ClCompile Include="test_stack.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
-    <ClCompile Include="test_TCalculator.cpp">
-      <Filter>Файлы исходного кода</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
